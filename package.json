@@ -1,0 +1,15 @@
+{
+  "name": "single-player-pong",
+  "version": "1.0.0",
+  "description": "a pong game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "aleem",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
